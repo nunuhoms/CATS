@@ -1,0 +1,25 @@
+<footer>
+
+  <a title="insta" href="https://instagram.com/shti_supremacy?igshid=YmMyMTA2M2Y="><img src="imatges/R.png"height="90px" alt="inici" /></a>
+
+ <form action="submit-form.php" method="POST">
+  <label for="name">Nom:</label>
+  <input type="text" id="name" name="name" required><br><br>
+
+  <label for="email">Correu electronic:</label>
+  <input type="email" id="email" name="email" required><br><br>
+
+  <label for="message">Misatge:</label>
+  <textarea id="message" name="message" required></textarea><br><br>
+
+  <input type="submit" value="Enviar">
+</footer>
+ </td>
+ </tr>
+ </table>
+
+
+ <p class=MsoNormal>&nbsp;</p>
+<div class="footer">
+
+<a href="#inicii"><img src="imatges/feche.png"height="90px" alt="inici" /></a> 
