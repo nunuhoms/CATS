@@ -10,6 +10,5 @@ la web. El primer, amb un enllaç extern que porta a una página que explica les
 races de gats, el segon, amb un enllaç intern que explica com cuidar un gat i el tercer, a la 
 pagina principal també, que és on es situa el mapa. Per últim, he fet un aparatat sobre 
 nosaltres on es pot contactar amb la organització. Com a footer, he introduit la xara social d’un gat i la funcionalitat d'un botó que permet tornar a dalt de la pàgina.</p>
-	
-	<p>Al fer clic al Gat del logotip, es torna a la pàgina d'inici.</p>
+
 </body>
